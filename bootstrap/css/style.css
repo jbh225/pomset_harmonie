@@ -17,11 +17,11 @@ h1{
   padding-bottom: 150px;
   padding-top:0 !important;
   background-color: #474E5D;
-  background: url("../../img/slider/Slider1.png") no-repeat center;
+  background: url("../../img/slider/slider_home.png") no-repeat center;
   -webkit-background-size: 100% 100%;
   -moz-background-size: 100% 100%;
   -o-background-size: 100%;
-  background-size: cover;
+  background-size: 100% 100%;
   color: black;
   height: 500px;
   width: auto;
@@ -33,11 +33,11 @@ h1{
   padding-bottom: 150px;
   padding-top:0 !important;
   background-color: #474E5D;
-  background: url("../../img/slider/Slider2.png") no-repeat center;
+  background: url("../../img/slider/slider_equipe.png") no-repeat center;
   -webkit-background-size: 100% 100%;
   -moz-background-size: 100% 100%;
   -o-background-size: 100% 100%;
-  background-size: cover ;
+  background-size: 100% 100%;
   color: black;
   height: 500px;
   padding-top: 60px;
@@ -48,11 +48,11 @@ h1{
   padding-bottom: 150px;
   padding-top:0 !important;
   background-color: #474E5D;
-  background: url("../../img/slider/Slider3.png") no-repeat center;
+  background: url("../../img/slider/slider_contexte.png") no-repeat center;
   -webkit-background-size: 100% 100%;
   -moz-background-size: 100% 100%;
   -o-background-size: 100% 100%;
-  background-size: cover;
+  background-size: 100% 100%;
   color: black;
   height: 500px;
 
@@ -64,11 +64,11 @@ h1{
   padding-bottom: 150px;
   padding-top:0 !important;
   background-color: #474E5D;
-  background: url("../../img/slider/Slider4.png") no-repeat center;
+  background: url("../../img/slider/slider_propo.png") no-repeat center;
   -webkit-background-size: 100% 100%;
   -moz-background-size: 100% 100%;
   -o-background-size: 100% 100%;
-  background-size: cover;
+  background-size: 100% 100%;
   color: black;
   height: 500px;
   padding-top: 60px;
@@ -79,11 +79,11 @@ h1{
 
   padding-top:0 !important;
   background-color: #474E5D;
-  background: url("../../img/slider/approche1.png") no-repeat;
+  background: url("../../img/slider/Slider_approche.png") no-repeat;
   -webkit-background-size: 100% 100%;
   -moz-background-size: 100% 100%;
   -o-background-size: 100% 100%;
-  background-size: 100%;
+  background-size: 100% 100%;
   color: black;
   height: 500px;
   padding-top: 60px;
@@ -94,11 +94,11 @@ h1{
   padding-bottom: 150px;
   padding-top:0 !important;
   background-color: #474E5D;
-  background: url("../../img/slider/budget1.png") no-repeat;
+  background: url("../../img/slider/slider_budget.png") no-repeat;
   -webkit-background-size: 100% 100%;
   -moz-background-size: 100% 100%;
   -o-background-size: 100% 100%;
-  background-size: cover;
+  background-size: 100% 100%;
   color: black;
   height: 500px;
   padding-top: 60px;
