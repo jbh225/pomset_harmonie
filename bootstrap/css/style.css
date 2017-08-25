@@ -113,9 +113,14 @@ h1{
 
 .btn{
   background-color: white;
+  border: 3px solid black;
 }
 
 .btn:hover{
+  background-color: #fdb813;
+}
+
+.btn-default:hover{
   background-color: #fdb813;
 }
 
@@ -334,7 +339,7 @@ padding: 20px !important;
 }
 
 .align1{
-  margin-left: 90px;
+  margin-left: 120px;
 }
 
 .img-marge{
@@ -366,4 +371,15 @@ padding: 20px !important;
 
 .marge3{
     margin-bottom: 40px;
+  }
+
+  .carousel-control {
+	  background-image: none !important;
+	}
+	.carousel-control {
+	  background-image: none !important;
+	}
+
+  .align-picto2{
+    margin-left: 250px;
   }
