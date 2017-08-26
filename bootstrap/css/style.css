@@ -449,3 +449,15 @@ padding: 20px !important;
 .carousel-indicators {
   color: #fdb813;
 }
+
+.modal-content{
+  padding: 2px !important;
+}
+
+.modal-body{
+  padding: 1px !important;
+}
+
+.marge8{
+  margin-left: 300px !important;
+}
