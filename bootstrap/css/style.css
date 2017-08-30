@@ -258,37 +258,37 @@ padding: 20px !important;
 
 @media screen and (min-width: 1500px) {
   .jumbotron{
-    height: 600px;
+    height: 800px;
   }
 }
 
 @media screen and (min-width: 1500px) {
   .jumbotron.equipe{
-    height: 600px;
+    height: 800px;
   }
 }
 
 @media screen and (min-width: 1500px) {
   .jumbotron.contexte{
-    height: 600px;
+    height: 800px;
   }
 }
 
 @media screen and (min-width: 1500px) {
   .jumbotron.propositions{
-    height: 600px;
+    height: 800px;
   }
 }
 
 @media screen and (min-width: 1500px) {
   .jumbotron.approche{
-    height: 600px;
+    height: 800px;
   }
 }
 
 @media screen and (min-width: 1500px) {
   .jumbotron.budget{
-    height: 600px;
+    height: 800px;
   }
 }
 
@@ -560,4 +560,10 @@ padding: 20px !important;
 
 .marge16{
   margin-left: 18px;
+}
+
+@media screen and (min-width: 1900px) {
+  .pad11{
+    padding-bottom: 27px;
+  }
 }
